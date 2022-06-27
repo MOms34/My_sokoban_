@@ -6,7 +6,7 @@ Le joueur 'P' peut se déplacer horizontalement ou verticalement sur des espaces
 
 ## But du programme
 
-My_sokoban : Poussez et placer toutes les caisses dans un espaces de stockages.
+My_sokoban : Poussez et placer toutes les caisses dans un espaces de stockage.
 
 ## Fonctions autorisées
 
