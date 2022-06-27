@@ -45,14 +45,12 @@ Lancement du projet
 
 ## Captures d'écrans
 
-Création labyrinte imparfait :
+Compilation :
 ![Screenshot](screenshots/screen.png)
 
-Création labyrinte parfait :
-![Screenshot](screenshots/screen2.png)
+Lancement du Jeu :
+![Screenshot](screenshots/screen1.png)
 
-Résolution labyrinte :
-![Screenshot](screenshots/screen3.png)
 
 
 
